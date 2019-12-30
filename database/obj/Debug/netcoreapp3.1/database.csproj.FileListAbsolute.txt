@@ -1,0 +1,3 @@
+C:\Users\mathe\Desktop\Restaurante\database\obj\Debug\netcoreapp3.1\database.csprojAssemblyReference.cache
+C:\Users\mathe\Desktop\Restaurante\database\obj\Debug\netcoreapp3.1\database.AssemblyInfoInputs.cache
+C:\Users\mathe\Desktop\Restaurante\database\obj\Debug\netcoreapp3.1\database.AssemblyInfo.cs
