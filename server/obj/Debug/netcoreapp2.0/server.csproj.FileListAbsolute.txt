@@ -1,3 +1,0 @@
-C:\Users\mathe\Desktop\Vue\restaurante\server\obj\Debug\netcoreapp2.0\server.csprojAssemblyReference.cache
-C:\Users\mathe\Desktop\Vue\restaurante\server\obj\Debug\netcoreapp2.0\server.AssemblyInfoInputs.cache
-C:\Users\mathe\Desktop\Vue\restaurante\server\obj\Debug\netcoreapp2.0\server.AssemblyInfo.cs
